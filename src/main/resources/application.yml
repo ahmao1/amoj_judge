@@ -1,0 +1,11 @@
+server:
+  port: 9989
+
+spring:
+  redis:
+    host: 192.168.106.1
+    port: 6379
+
+baseweb:
+  description:
+    length: 128
